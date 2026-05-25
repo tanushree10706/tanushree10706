@@ -97,7 +97,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=c8b89a)]([https://linkedin.com/in/tanushree-gadekar](https://www.linkedin.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLWHZD9kAQoaxQw0K4g%2FuDA%3D%3D))&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=c8b89a)](https://www.linkedin.com/in/tanushree-gadekar-403760342/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=c8b89a)](mailto:tanushree10706@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=c8b89a)](https://github.com/tanushree10706)
 
